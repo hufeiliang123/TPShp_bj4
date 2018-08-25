@@ -1,0 +1,251 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1535192375207" stop="1535192583267">
+  <name>scripts.test_login</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1535192375207" status="passed" stop="1535192406695">
+      <name>TestLogin.test_login[args0]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="4032-MainThread"/>
+        <label name="host" value="LAPTOP-DVH2LH1C"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps>
+        <step start="1535192399451" status="passed" stop="1535192402552">
+          <name>输入用户名</name>
+          <title>输入用户名</title>
+          <attachments>
+            <attachment source="ad59ce06-4bde-4025-8b78-7ec3db878aab-attachment.txt" title="用户名是" type="text/plain"/>
+          </attachments>
+          <steps/>
+        </step>
+        <step start="1535192402552" status="passed" stop="1535192403099">
+          <name>密码</name>
+          <title>密码</title>
+          <attachments>
+            <attachment source="b7a1f1f3-12b7-44d5-8141-1f5988c61d72-attachment.txt" title="密码是:" type="text/plain"/>
+          </attachments>
+          <steps/>
+        </step>
+        <step start="1535192403651" status="passed" stop="1535192404695">
+          <name>判断toast是否存在</name>
+          <title>判断toast是否存在</title>
+          <attachments/>
+          <steps/>
+        </step>
+      </steps>
+    </test-case>
+    <test-case start="1535192406706" status="passed" stop="1535192436507">
+      <name>TestLogin.test_login[args1]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="4032-MainThread"/>
+        <label name="host" value="LAPTOP-DVH2LH1C"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps>
+        <step start="1535192428508" status="passed" stop="1535192431052">
+          <name>输入用户名</name>
+          <title>输入用户名</title>
+          <attachments>
+            <attachment source="ac587f1b-22fa-4793-beb8-813ca3f7e04b-attachment.txt" title="用户名是" type="text/plain"/>
+          </attachments>
+          <steps/>
+        </step>
+        <step start="1535192431052" status="passed" stop="1535192431564">
+          <name>密码</name>
+          <title>密码</title>
+          <attachments>
+            <attachment source="8f28844c-497b-4ee6-957d-3df82412c129-attachment.txt" title="密码是:" type="text/plain"/>
+          </attachments>
+          <steps/>
+        </step>
+        <step start="1535192432160" status="passed" stop="1535192434507">
+          <name>判断toast是否存在</name>
+          <title>判断toast是否存在</title>
+          <attachments/>
+          <steps/>
+        </step>
+      </steps>
+    </test-case>
+    <test-case start="1535192436517" status="passed" stop="1535192463490">
+      <name>TestLogin.test_login[args2]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="4032-MainThread"/>
+        <label name="host" value="LAPTOP-DVH2LH1C"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps>
+        <step start="1535192456631" status="passed" stop="1535192459090">
+          <name>输入用户名</name>
+          <title>输入用户名</title>
+          <attachments>
+            <attachment source="9f382513-a56d-4a84-8691-12a04a2e813c-attachment.txt" title="用户名是" type="text/plain"/>
+          </attachments>
+          <steps/>
+        </step>
+        <step start="1535192459090" status="passed" stop="1535192459677">
+          <name>密码</name>
+          <title>密码</title>
+          <attachments>
+            <attachment source="a6f61b74-ce71-4847-891b-1c683ab0d31b-attachment.txt" title="密码是:" type="text/plain"/>
+          </attachments>
+          <steps/>
+        </step>
+        <step start="1535192460197" status="passed" stop="1535192461490">
+          <name>判断toast是否存在</name>
+          <title>判断toast是否存在</title>
+          <attachments/>
+          <steps/>
+        </step>
+      </steps>
+    </test-case>
+    <test-case start="1535192463498" status="passed" stop="1535192494002">
+      <name>TestLogin.test_login[args3]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="4032-MainThread"/>
+        <label name="host" value="LAPTOP-DVH2LH1C"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps>
+        <step start="1535192486870" status="passed" stop="1535192490053">
+          <name>输入用户名</name>
+          <title>输入用户名</title>
+          <attachments>
+            <attachment source="cd2f47a2-e2d7-4ee2-b086-5391cff6dbe5-attachment.txt" title="用户名是" type="text/plain"/>
+          </attachments>
+          <steps/>
+        </step>
+        <step start="1535192490053" status="passed" stop="1535192490601">
+          <name>密码</name>
+          <title>密码</title>
+          <attachments>
+            <attachment source="aa0a3ff9-f848-4766-8e21-c0a1b7ec1b0b-attachment.txt" title="密码是:" type="text/plain"/>
+          </attachments>
+          <steps/>
+        </step>
+        <step start="1535192491104" status="passed" stop="1535192492002">
+          <name>判断toast是否存在</name>
+          <title>判断toast是否存在</title>
+          <attachments/>
+          <steps/>
+        </step>
+      </steps>
+    </test-case>
+    <test-case start="1535192494012" status="passed" stop="1535192524319">
+      <name>TestLogin.test_login[args4]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="4032-MainThread"/>
+        <label name="host" value="LAPTOP-DVH2LH1C"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps>
+        <step start="1535192516381" status="passed" stop="1535192519058">
+          <name>输入用户名</name>
+          <title>输入用户名</title>
+          <attachments>
+            <attachment source="9f34ce6b-f185-4836-a4ad-951e59755c9d-attachment.txt" title="用户名是" type="text/plain"/>
+          </attachments>
+          <steps/>
+        </step>
+        <step start="1535192519058" status="passed" stop="1535192519632">
+          <name>密码</name>
+          <title>密码</title>
+          <attachments>
+            <attachment source="89d9521a-d150-438a-ae40-ec98b4229b81-attachment.txt" title="密码是:" type="text/plain"/>
+          </attachments>
+          <steps/>
+        </step>
+        <step start="1535192520162" status="passed" stop="1535192522318">
+          <name>判断toast是否存在</name>
+          <title>判断toast是否存在</title>
+          <attachments/>
+          <steps/>
+        </step>
+      </steps>
+    </test-case>
+    <test-case start="1535192524332" status="passed" stop="1535192554735">
+      <name>TestLogin.test_login[args5]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="4032-MainThread"/>
+        <label name="host" value="LAPTOP-DVH2LH1C"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps>
+        <step start="1535192547749" status="passed" stop="1535192550530">
+          <name>输入用户名</name>
+          <title>输入用户名</title>
+          <attachments>
+            <attachment source="5a3572c9-2a42-43c3-b625-c66bdedcc40d-attachment.txt" title="用户名是" type="text/plain"/>
+          </attachments>
+          <steps/>
+        </step>
+        <step start="1535192550530" status="passed" stop="1535192551099">
+          <name>密码</name>
+          <title>密码</title>
+          <attachments>
+            <attachment source="d2cfc451-febc-4c37-a0d3-42767e8a7b36-attachment.txt" title="密码是:" type="text/plain"/>
+          </attachments>
+          <steps/>
+        </step>
+        <step start="1535192551639" status="passed" stop="1535192552735">
+          <name>判断toast是否存在</name>
+          <title>判断toast是否存在</title>
+          <attachments/>
+          <steps/>
+        </step>
+      </steps>
+    </test-case>
+    <test-case start="1535192554770" status="passed" stop="1535192583267">
+      <name>TestLogin.test_login[args6]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="4032-MainThread"/>
+        <label name="host" value="LAPTOP-DVH2LH1C"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps>
+        <step start="1535192577237" status="passed" stop="1535192579002">
+          <name>输入用户名</name>
+          <title>输入用户名</title>
+          <attachments>
+            <attachment source="3aa16ba4-845e-451d-92e8-3b378e846f3c-attachment.txt" title="用户名是" type="text/plain"/>
+          </attachments>
+          <steps/>
+        </step>
+        <step start="1535192579002" status="passed" stop="1535192579719">
+          <name>密码</name>
+          <title>密码</title>
+          <attachments>
+            <attachment source="7a96d77a-9256-418b-81ba-92703695a81b-attachment.txt" title="密码是:" type="text/plain"/>
+          </attachments>
+          <steps/>
+        </step>
+        <step start="1535192580196" status="passed" stop="1535192581266">
+          <name>判断toast是否存在</name>
+          <title>判断toast是否存在</title>
+          <attachments/>
+          <steps/>
+        </step>
+      </steps>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

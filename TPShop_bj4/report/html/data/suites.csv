@@ -1,0 +1,8 @@
+"Status","Name","Duration in ms","Description"
+"passed","scripts.test_login.TestLogin.test_login[args6]","28497",""
+"passed","scripts.test_login.TestLogin.test_login[args4]","30307",""
+"passed","scripts.test_login.TestLogin.test_login[args0]","31488",""
+"passed","scripts.test_login.TestLogin.test_login[args3]","30504",""
+"passed","scripts.test_login.TestLogin.test_login[args1]","29801",""
+"passed","scripts.test_login.TestLogin.test_login[args5]","30403",""
+"passed","scripts.test_login.TestLogin.test_login[args2]","26973",""
